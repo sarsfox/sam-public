@@ -56,7 +56,7 @@ Add new tasks here, one checkbox per line. A rough note is enough. During review
 - [Meetings with Gloria](https://github.com/sarsfox/sam-personal/blob/main/Health/Gloria%20-%20Meetings.md) — private counseling tracker.
 - [Ideas and backlog](notes/ideas-and-backlog.md)
 
-- [This thread: saved information and Obsidian handoff](https://github.com/sarsfox/sam-personal/blob/main/Conversations/2026-11-18%20-%20Gloria%20dashboard%20and%20archive%20capture.md)
+- [This thread: saved information and Obsidian handoff](https://github.com/sarsfox/sam-personal/blob/main/Archive/Conversations/2026-11-18%20-%20Gloria%20dashboard%20and%20archive%20capture.md)
 
 ## Imported notes
 
