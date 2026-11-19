@@ -4,10 +4,10 @@ Updated November 17, 2026.
 
 ## Priorities
 
-1. [LTD — Brent follow-up questions](https://github.com/sarsfox/sam-personal/blob/main/Health/Benefits/LTD%20-%20Brent%20follow-up.md).
-2. [ ] Auntie Kit. Next action to define.
-3. [SSDI — verify current appeal status and any response deadline](https://github.com/sarsfox/sam-personal/blob/main/Health/Benefits/README.md). Historical denial details are already recorded; check later notices/correspondence.
-4. [ ] Metamask. Next action to define.
+1. [ ] LTD. Follow up with Brent about the MZ chats. Confirm the next deadline and mediation status. Ask what documentation from Miller would help.
+2. [ ] Auntie Kit. Read emails.
+3. [ ] SSDI. Update Hamilton re: KP test and Dr. Miller offer.
+4. [ ] Metamask. See if they responded.
 
 ## Recent schedule — Monday, November 16
 
