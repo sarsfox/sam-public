@@ -4,9 +4,9 @@ Updated November 17, 2026.
 
 ## Priorities
 
-1. [ ] LTD. Follow up with Brent about the MZ chats. Confirm the next deadline and mediation status. Ask what documentation from Miller would help.
+1. [LTD — Brent follow-up questions](https://github.com/sarsfox/sam-personal/blob/main/Health/Benefits/LTD%20-%20Brent%20follow-up.md).
 2. [ ] Auntie Kit. Next action to define.
-3. [ ] SSDI. Find the denial notice and check the reason and any response deadline.
+3. [SSDI — verify current appeal status and any response deadline](https://github.com/sarsfox/sam-personal/blob/main/Health/Benefits/README.md). Historical denial details are already recorded; check later notices/correspondence.
 4. [ ] Metamask. Next action to define.
 
 ## Recent schedule — Monday, November 16
@@ -24,7 +24,7 @@ These scheduled entries are retained for review; attendance and outcomes are not
 - [Finance](https://github.com/sarsfox/sam-personal/blob/main/Finance/README.md) — Hebrew Free Loan and financial records.
 - [Home](https://github.com/sarsfox/sam-personal/blob/main/Home/README.md) — utilities, maintenance and housing choices.
 - [Work](https://github.com/sarsfox/sam-personal/blob/main/Work/README.md) — strengths and existing collaborations.
-- [Recurring reminders](https://github.com/sarsfox/sam-personal/blob/main/Reminders/README.md) — quarterly net worth, quarterly DOR and property-tax checks every two months.
+- [Recurring reminders](Reminders/README.md) — quarterly net worth, quarterly DOR and property-tax checks every two months.
 
 ## Next dates
 
@@ -45,16 +45,18 @@ Add new tasks here, one checkbox per line. A rough note is enough. During review
 - [Dr. Richard Roston — records and correspondence](https://github.com/sarsfox/sam-personal/blob/main/Health/Roston/README.md)
 
 - [Meetings with Gloria](https://github.com/sarsfox/sam-personal/blob/main/Health/Gloria%20-%20Meetings.md) — private counseling tracker.
-- [Ideas and backlog](https://github.com/sarsfox/sam-personal/blob/main/notes/ideas-and-backlog.md)
+- [Ideas and backlog](notes/ideas-and-backlog.md)
+
+- [This thread: saved information and Obsidian handoff](https://github.com/sarsfox/sam-personal/blob/main/Conversations/2026-11-18%20-%20Gloria%20dashboard%20and%20archive%20capture.md)
 
 ## Imported notes
 
 - [Imported notes index](https://github.com/sarsfox/sam-personal/blob/main/Imported%20notes.md)
 - [Context](Context)
 - [Conversations](Conversations)
-- [Open loops](https://github.com/sarsfox/sam-personal/blob/main/Follow-ups/Open%20loops.md)
+- [Open loops](Follow-ups/Open%20loops.md)
 - [Health notes](https://github.com/sarsfox/sam-personal/blob/main/Health)
-- [Setup](https://github.com/sarsfox/sam-personal/blob/main/Setup)
+- [Setup](Setup)
 
 Migrated all 11 files from `sarsfox/dfdsgsdg` on November 17, 2026. Source snapshot `e54dac6bde61b76f2a6102667e9ac87f5d2677de`. Its README is preserved as `Imported notes.md`. Earlier commit history remains available in the source repository.
 
