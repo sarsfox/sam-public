@@ -5,10 +5,10 @@ Updated November 17, 2026.
 ## Priorities
 
 1. [ ] LTD. Follow up with Brent about the MZ chats. Confirm the next deadline and mediation status. Ask what documentation from Miller would help.
-2. [ ] Auntie Kit. Read emails.
-3. [ ] SSDI. Update Hamilton re: KP test and Dr. Miller offer.
-4. [ ] Metamask. See if they responded.
-
+2. [ ] Auntie Kit. Read emails
+3. [ ] SSDI. Update Hamilton re: KP test and Dr. Miller offer
+4. [ ] Metamask. See if they responded
+5. 
 ## Recent schedule — Monday, November 16
 
 These scheduled entries are retained for review; attendance and outcomes are not confirmed here.
