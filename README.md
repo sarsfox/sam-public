@@ -1,6 +1,6 @@
 # Life Dashboard
 
-Updated November 17, 2026.
+Updated November 19, 2026.
 
 ## Priorities
 
@@ -8,14 +8,20 @@ Updated November 17, 2026.
 2. [ ] Auntie Kit. Read emails
 3. [ ] SSDI. Update Hamilton re: KP test and Dr. Miller offer
 4. [ ] Metamask. See if they responded
-5. 
-## Recent schedule — Monday, November 16
 
-These scheduled entries are retained for review; attendance and outcomes are not confirmed here.
 
-- Lia to gan, then 1-10
-- 10:30 AM — Brandon, Dignity meeting.
-- 1:30 PM — Dr. Roston. Bring the Friday psychiatry notes from Obsidian and ask for the written plan and next check-in date.
+## Today's schedule — Thursday, November 19
+11am 
+Call Yotam
+
+Noon
+Tania comes
+
+1:15 – 2:45pm
+OHDS Fuchs/Yeffet Family Tour
+
+3pm
+ADHD coach
 
 ## Browse by area
 
