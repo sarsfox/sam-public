@@ -10,23 +10,11 @@ Updated November 20, 2026.
 4. [ ] Metamask. See if they responded
 
 
-## Previous schedule — Thursday, November 19
+## Today's schedule — Friday, November 20
 
-Attendance and outcomes not confirmed here.
-11am 
-Call Yotam
-
-Noon
-Tania comes
-
-1:15 – 2:45pm
-OHDS Fuchs/Yeffet Family Tour
-
-3pm
-ADHD coach
-
-5:15pm
-Callum — Market Hall Foods, Oakland
+- 9–10am — Quality time with Shir. “Sam and Shir starting point” is listed 9–9:45am.
+- 2–3pm — Psychiatry appointment with Dr. Richard Roston (CC calendar).
+- 3–4pm — Call with Gina Jeanna.
 
 ## November 20 update
 
