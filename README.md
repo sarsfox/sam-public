@@ -1,6 +1,6 @@
 # Life Dashboard
 
-Updated November 19, 2026.
+Updated November 20, 2026.
 
 ## Priorities
 
@@ -10,7 +10,9 @@ Updated November 19, 2026.
 4. [ ] Metamask. See if they responded
 
 
-## Today's schedule — Thursday, November 19
+## Previous schedule — Thursday, November 19
+
+Attendance and outcomes not confirmed here.
 11am 
 Call Yotam
 
@@ -26,6 +28,12 @@ ADHD coach
 5:15pm
 Callum — Market Hall Foods, Oakland
 
+## November 20 update
+
+- [ ] Roston / Best: confirm their shared written medication plan, whether the earlier clinician-to-clinician note was sent, and the current Exelon decision. The older dismissal of withdrawal is superseded by Roston's November acknowledgment of several possible contributors. These historical notes are not new medication instructions.
+- [ ] Coverage: verify current Kaiser and Delta Dental enrollment, 2027 health-plan selection, and any actual unpaid premium using current notices. Do not assume March reinstatement steps are still outstanding.
+- PNC / Aaron: older hardship notes preserved as history. Mortgage-hardship work remains marked done as of November 17. No new application task.
+
 ## Browse by area
 
 - [Health](https://github.com/sarsfox/sam-personal/blob/main/Health/README.md) — clinicians, medication discussions, glasses, dental, testing, rehabilitation and insurance.
@@ -37,11 +45,15 @@ Callum — Market Hall Foods, Oakland
 
 ## Next dates
 
-- November 19, 1:15–2:45 PM — OHDS tour.
+- November 19, 1:15–2:45 PM — OHDS tour (past scheduled event; attendance unverified).
 - November 20 — first scheduled $500 Hebrew Free Loan debit from Elaine’s account; bank posting still to verify.
 - December 4, 9–10:30 AM — Crocker Highlands tour.
 - December 6, 10–11:30 AM — OHDS open house; registration unchecked.
 - December 9, 9–10 AM — Cleveland tour, per family calendar.
+
+## UPD instruction
+
+When Sam types `UPD`, update this GitHub Life Dashboard (`sarsfox/sam-source-of-truth/README.md`). Update matching entries rather than duplicating them. An Obsidian-only update does not fulfill UPD. Keep detailed supporting records in the private records repository or Obsidian.
 
 ## Inbox
 
